@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sahaj Preet Singh</h1>
 <h3 align="center">Software Engineer</h3>
 
-<img align='right' alt="coding" width="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align='right' alt="coding" width="300" src="https://www.bing.com/th/id/OGC.850477fed08bfe98598082bcd309ce70?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1292677%2fscreenshots%2f6139167%2favento.gif&ehk=Av8UkwZVPL9oYLkOuvSgL%2f8NuxOQe1PPuOPzjSs4TFo%3d">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sahaj-preet-singh-419891192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sahaj-preet-singh-419891192/" height="30" width="40" /></a>
